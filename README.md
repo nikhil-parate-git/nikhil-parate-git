@@ -1,27 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Nikhil%20Parate&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20React.js%20Specialist&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=0&section=header"/>
 </div>
 
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey!+I'm+Nikhil+Parate+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;5+Live+Production+Apps+Shipped+%F0%9F%94%A5;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Full+Stack+%26+Frontend+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Nikhil%20Parate&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Shipping%20Real%20Products&descAlignY=58&descSize=18&stroke=58A6FF&strokeWidth=2"/>
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Hey!+I'm+Nikhil+Parate+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;5+Live+Production+Apps+Shipped+%F0%9F%94%A5;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB+%E2%9C%A8;Turning+Ideas+into+Real+Products+%F0%9F%92%BC" alt="Typing SVG"/>
+  </a>
 </div>
 
 <br/>
 
+<!-- BADGES ROW -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/nikhil-parate-27b27b300">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nikhil-parate-27b27b300" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
-  <a href="https://github.com/nikhil-parate-git">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/nikhil-parate-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="mailto:nikhilparate019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=nikhil-parate-git&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nikhil-parate-git&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+<!-- TROPHY -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhil-parate-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
@@ -30,13 +46,14 @@
 
 ```javascript
 const nikhil = {
-  role        : "Full Stack Developer — MERN Stack",
-  education   : "MCA @ GH Raisoni College of Engineering, Nagpur (CGPA: 8.70)",
-  internship  : "Full Stack Dev Intern @ Talentrise Technokrate Pvt. Ltd. (6 months)",
-  expertise   : ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs", "JWT"],
-  liveProjects: 5,  // real users, real traffic, real impact
-  currentFocus: "System Design + Spring Boot + Scaling Live Products",
-  funFact     : "I don't just build projects — I ship them to real users 🚀",
+  role         : "Full Stack Developer — MERN Stack 🚀",
+  education    : "MCA @ GH Raisoni College of Engineering, Nagpur (CGPA: 8.70 / 10)",
+  internship   : "Full Stack Dev Intern @ Talentrise Technokrate Pvt. Ltd. — 6 months",
+  expertise    : ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs", "JWT", "Razorpay"],
+  liveProjects : 5,   // ← Real users. Real traffic. Real impact. 🔥
+  currentFocus : "System Design + Spring Boot + Scaling Production Apps",
+  openTo       : ["Full Stack Developer", "Frontend Developer", "React Developer"],
+  funFact      : "I don't just build projects — I ship them to real users 🌐",
 };
 ```
 
@@ -52,18 +69,27 @@ const nikhil = {
 
 <div align="center">
 
+**Frontend**&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & DB**&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Tools**&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -73,41 +99,130 @@ const nikhil = {
 
 <div align="center">
 
-> 🟢 **5 real, deployed apps** — not just portfolio pieces. Real users. Real traffic. Real impact.
+[![](https://img.shields.io/badge/🟢%205%20Production%20Apps%20Deployed-Real%20Users%20·%20Real%20Traffic%20·%20Real%20Impact-success?style=for-the-badge&labelColor=0d1117)](https://github.com/nikhil-parate-git)
 
 </div>
 
----
+<br/>
 
-### 🏪 Local Trade Street &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-localtradestreet.com-success?style=for-the-badge)](https://localtradestreet.com/)
-
-> A full-scale **service-based business listing platform** connecting local vendors with customers across multiple categories.
-
+<!-- PROJECT 1 -->
 <table>
 <tr>
-<td width="60%">
+<td>
 
-**What it does:**
-- Vendors list their services → customers discover & enquire
-- 3 fully independent role-based panels with separate dashboards
-- Plan-based vendor subscription system
-- Razorpay payment gateway for secure transactions
-- Dynamic multi-level category & sub-category management
-- Fully responsive React.js UI across all modules
+### 🏪 Local Trade Street &nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/🌐%20LIVE-localtradestreet.com-brightgreen?style=flat-square)](https://localtradestreet.com/)
+
+> **Service-based business listing platform** — Vendors list services, customers discover & enquire. Built for real local businesses across India.
+
+| Feature | Details |
+|---|---|
+| 👥 Role Panels | Customer Website · Admin Panel · Vendor Panel |
+| 💳 Payments | Razorpay payment gateway — plan-based subscriptions |
+| 📂 Structure | Multi-level dynamic categories & sub-categories |
+| 🔐 Auth | JWT-based secure authentication |
+| 📱 Design | Fully responsive React.js UI across all 3 panels |
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay`
 
 </td>
-<td width="40%" align="center">
+</tr>
+</table>
 
-**Tech Stack**
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+<!-- PROJECT 2 -->
+<table>
+<tr>
+<td>
 
-**Panels:** `Customer` · `Admin` · `Vendor`
+### ✨ Icchhapurti &nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/🌐%20LIVE-icchhapurti.com-brightgreen?style=flat-square)](https://icchhapurti.com/)
+
+> **Manifestation-themed e-commerce platform** — Selling crystal stone pens, kits & bundles for a real brand with real paying customers.
+
+| Feature | Details |
+|---|---|
+| 👥 Role Panels | Customer · Admin · Sub-Admin — each with unique dashboards |
+| 🛒 E-Commerce | Browse → Filter → Cart → Checkout → Order Tracking |
+| 💳 Payments | Razorpay secure checkout integration |
+| 🔐 Auth | JWT authentication + session management |
+| 🚀 Deployed | Production environment — actively maintained with client |
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 3 -->
+<table>
+<tr>
+<td>
+
+### 🍕 Food Web &nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/🌐%20LIVE-foodwebsitefe.netlify.app-brightgreen?style=flat-square)](https://foodwebsitefe.netlify.app/)
+
+> **Full-stack food ordering platform** — Browse menus, add to cart, and place orders. Complete restaurant management via admin panel.
+
+| Feature | Details |
+|---|---|
+| 👥 Role Panels | Customer Website · Admin Panel |
+| 🍽️ Menu | Category-based browsing with search & filter |
+| 🛒 Orders | Cart management · order placement · status tracking |
+| ⚙️ Admin | Manage menu items, categories & incoming orders |
+| 📱 Design | Clean, responsive UI — mobile & desktop optimized |
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Netlify`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 4 -->
+<table>
+<tr>
+<td>
+
+### 🖼️ Gallery Application &nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/🌐%20LIVE-gallery--app.vercel.app-brightgreen?style=flat-square)](https://gallery-application-iota.vercel.app/)
+
+> **Modern image gallery web app** — Browse, filter, and preview a curated collection with smooth animations and a minimal aesthetic.
+
+| Feature | Details |
+|---|---|
+| 🗂️ Filtering | Category-based image filtering for organized browsing |
+| ✨ UX | Smooth hover effects · image preview interactions |
+| ⚡ Performance | Optimized image rendering for fast load times |
+| 🎨 Design | Minimal, elegant UI — focused on visual presentation |
+| 🚀 Deployed | Vercel — instant global access |
+
+**Stack:** `React.js` `JavaScript` `CSS3` `Vercel`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 5 -->
+<table>
+<tr>
+<td>
+
+### 🍳 Recipe Finder &nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/🌐%20LIVE-recipe--finder.vercel.app-brightgreen?style=flat-square)](https://recipe-finder-flame-eight.vercel.app/)
+
+> **Recipe discovery app** — Search thousands of dishes, explore ingredients, and get step-by-step cooking instructions powered by live API data.
+
+| Feature | Details |
+|---|---|
+| 🔍 Search | Instant recipe search — any dish, any cuisine |
+| 📋 Details | Full ingredient lists · precise quantities · instructions |
+| 🌍 Filter | Filter by cuisine type, meal type & dietary preferences |
+| 📡 API | Powered by live recipe API — real, up-to-date data |
+| 📱 Design | Responsive UI — fast & smooth on any device |
+
+**Stack:** `React.js` `JavaScript` `CSS3` `REST API` `Vercel`
 
 </td>
 </tr>
@@ -115,154 +230,19 @@ const nikhil = {
 
 ---
 
-### ✨ Icchhapurti &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-icchhapurti.com-success?style=for-the-badge)](https://icchhapurti.com/)
+## 💼 Work Experience
 
-> A **manifestation-themed e-commerce platform** selling crystal stone pens, kits & spiritual bundles — built for a real brand with real customers.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260px"/>
 
-<table>
-<tr>
-<td width="60%">
+### 🏢 Full Stack Developer Intern
+**Talentrise Technokrate Pvt. Ltd.** · Nagpur, India · *2025 – 2026*
 
-**What it does:**
-- Complete e-commerce flow — browse, filter, cart, checkout, order tracking
-- 3-role system with unique dashboards for each
-- JWT-based secure user authentication & session management
-- Razorpay payment integration for safe online transactions
-- Sub-admin panel for delegated content management
-- Production-deployed & actively maintained with client feedback
-
-</td>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-
-**Panels:** `Customer` · `Admin` · `Sub-Admin`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🍕 Food Web &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-foodwebsitefe.netlify.app-success?style=for-the-badge)](https://foodwebsitefe.netlify.app/)
-
-> A **full-stack food ordering web app** with a dedicated admin panel for complete restaurant management.
-
-<table>
-<tr>
-<td width="60%">
-
-**What it does:**
-- Browse restaurant menus by category with search & filter
-- Add to cart, manage quantities, place orders seamlessly
-- Admin panel for managing menu items, categories & orders
-- Real-time order status tracking for customers
-- Clean, appetizing UI with smooth UX flow
-- Fully responsive across mobile & desktop
-
-</td>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-**Panels:** `Customer` · `Admin`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🖼️ Gallery Application &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-gallery--application.vercel.app-success?style=for-the-badge)](https://gallery-application-iota.vercel.app/)
-
-> A **modern image gallery web app** with smooth browsing experience, category filtering, and clean visual layout.
-
-<table>
-<tr>
-<td width="60%">
-
-**What it does:**
-- Browse a curated collection of images in a responsive grid layout
-- Filter images by category for organised browsing
-- Smooth hover effects and image preview interactions
-- Fast-loading optimised image rendering
-- Minimal, elegant UI focused on visual presentation
-- Deployed on Vercel for instant global access
-
-</td>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🍳 Recipe Finder &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-recipe--finder.vercel.app-success?style=for-the-badge)](https://recipe-finder-flame-eight.vercel.app/)
-
-> A **recipe discovery app** that lets users search thousands of dishes, view ingredients, and get step-by-step cooking instructions.
-
-<table>
-<tr>
-<td width="60%">
-
-**What it does:**
-- Search any dish and instantly get matching recipes
-- View full ingredient lists with precise quantities
-- Step-by-step cooking instructions for each recipe
-- Filter by cuisine, meal type & dietary preferences
-- Powered by a real recipe API for live, accurate data
-- Fast, responsive UI optimised for both mobile & desktop
-
-</td>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280px"/>
-
-### Full Stack Developer Intern
-**Talentrise Technokrate Pvt. Ltd.** | Nagpur | *2025 – 2026*
-
-- Worked on **multiple live client & company projects** over 6 months in a professional corporate environment
-- Built dynamic, reusable UI components as a **React.js Frontend Developer** for real production apps
-- Developed & consumed **RESTful APIs** using Node.js & Express.js; tested with **Postman** before deployment
-- Managed code, branches & PRs on **GitHub** following Git workflows — commits, merges, code reviews
-- Collaborated directly with **clients** to gather requirements & deliver features within deadlines
+✅ Worked on **multiple live client & company projects** over **6 months**
+✅ Primary role — **React.js Frontend Developer** on real production apps
+✅ Built, tested & deployed **RESTful APIs** with Node.js, Express & Postman
+✅ Followed **Git workflows** — commits, branches, PRs, code reviews
+✅ Delivered features on deadline after direct **client requirement gathering**
+✅ Collaborated with cross-functional teams in a professional corporate setup
 
 <br clear="right"/>
 
@@ -271,13 +251,13 @@ const nikhil = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-parate-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-parate-git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-parate-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-parate-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-parate-git&theme=tokyonight&hide_border=true" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-parate-git&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" width="620"/>
 </div>
 
 ---
@@ -285,7 +265,19 @@ const nikhil = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-parate-git&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-parate-git&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil-parate-git/nikhil-parate-git/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil-parate-git/nikhil-parate-git/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/nikhil-parate-git/nikhil-parate-git/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -306,27 +298,33 @@ const nikhil = {
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nikhil-parate-27b27b300">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:nikhilparate019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/nikhil-parate-git">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/nikhil-parate-27b27b300">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:nikhilparate019@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/nikhil-parate-git">
+  <img src="https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
-  <p><b>I don't just code — I ship real products to real users.</b><br/>5 live apps deployed. Open to Full Stack & Frontend roles. Let's build something great! 🚀</p>
-  <p>⭐️ From <a href="https://github.com/nikhil-parate-git"><b>Nikhil Parate</b></a></p>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"/>
+  <br/><br/>
+  <b>I don't just write code — I ship real products to real users.</b>
+  <br/>
+  <i>5 live apps deployed · Open to Full Stack & Frontend roles · Let's build something great! 🚀</i>
+  <br/><br/>
+  ⭐️ From <a href="https://github.com/nikhil-parate-git"><b>Nikhil Parate</b></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
 </div>
