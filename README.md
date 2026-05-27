@@ -1,6 +1,15 @@
+<!-- WELCOME ANIMATION BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Nikhil%20Parate&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20React.js%20Specialist&descAlignY=58&descSize=20"/>
 </div>
+
+<!-- WELCOME TYPING LINE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%99%8F;Thanks+for+stopping+by+%E2%9C%A8;Feel+free+to+explore+my+work+%F0%9F%91%87" alt="Welcome"/>
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey!+I'm+Nikhil+Parate+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;5+Live+Production+Apps+Shipped+%F0%9F%94%A5;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Full+Stack+%26+Frontend+Roles+%F0%9F%92%BC" alt="Typing SVG" />
