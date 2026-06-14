@@ -18,6 +18,10 @@
 <br/>
 
 <div align="center">
+  <a href="https://nikhil-s-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/nikhil-parate-27b27b300">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -45,6 +49,7 @@ const nikhil = {
   expertise   : ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs", "JWT"],
   liveProjects: 5,  // real users, real traffic, real impact
   currentFocus: "System Design + Spring Boot + Scaling Live Products",
+  portfolio   : "https://nikhil-s-portfolio-five.vercel.app/",  // 🌐 Live Portfolio
   funFact     : "I don't just build projects — I ship them to real users 🚀",
 };
 ```
@@ -315,6 +320,10 @@ const nikhil = {
 ## 📫 Let's Connect
 
 <div align="center">
+  <a href="https://nikhil-s-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/nikhil-parate-27b27b300">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
