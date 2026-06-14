@@ -88,7 +88,7 @@ const nikhil = {
 
 ---
 
-### 🏪 Local Trade Street &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-localtradestreet.com-success?style=for-the-badge)](https://localtradestreet.com/)
+### 🏪 Local Trade Street &nbsp; [![Live](https://img.shields.io/badge/🌐_Live-localtradestreet.com-success?style=for-the-badge)](https://lts-website-a53t.vercel.app/)
 
 > A full-scale **service-based business listing platform** connecting local vendors with customers across multiple categories.
 
